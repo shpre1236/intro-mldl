@@ -13,9 +13,18 @@
 - CSED101 전산 이수
 
 ### Requirements
-- 버벅이는 영어를 듣고 참아낼수 있는 인내심
-- 강의 종료 후 피드백
-- 강의 당 최소 질문 2개
+- 마인드셋
+    - 버벅이는 영어를 듣고 참아낼수 있는 인내심
+    - 모르면 바로 모른다고 할수 있는 용기
+    - 쉬우면 쉽다 어려우면 어렵다 말하는 꾸밈없는 정직함
+- 실무
+    - 강의 종료 후 피드백
+    - 강의 당 최소 질문 2개
+
+### Lecturer
+- Will Apply to Doctoral program
+- "Extremely" poor at English
+    - Preparation for international conference
 
 ## Contents
 
