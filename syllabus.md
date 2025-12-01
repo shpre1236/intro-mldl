@@ -32,8 +32,8 @@
 
 | day | lecture | assignment | solution |
 |---|---|---|---|
-| day 1 | intro & regression | TBD | TBD |
-| day 2 | data-driven approach | TBD | TBD |
-| day 3 | python programming setup | TBD | TBD |
+| day 1 | intro & gradient descent | TBD | TBD |
+| day 2 | regression | TBD | TBD |
+| day 3 | python programming | TBD | TBD |
 | day 4 | pytorch introduction | TBD | TBD |
 | day 5 | exercise & DL guidance | TBD | TBD |
